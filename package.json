@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "Scott Spence <spences10apps@gmail.com> (https://blog.scottspence.me/)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {}
 }
