@@ -1,15 +1,24 @@
 {
   "name": "positivity-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "positive quotes",
   "main": "src/index.js",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "node src/index.js"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spences10/positivity-api.git"
+  },
+  "keywords": ["positive quotes"],
   "author": "Scott Spence <spences10apps@gmail.com> (https://blog.scottspence.me/)",
   "license": "MIT",
-  "dependencies": {
-    "unique-random-array": "1.0.0"
-  }
+  "bugs": {
+    "url": "https://github.com/spences10/positivity-api/issues"
+  },
+  "homepage": "https://github.com/spences10/positivity-api#readme"
 }
