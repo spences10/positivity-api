@@ -4,7 +4,7 @@
   "description": "positive quotes",
   "main": "src/index.js",
   "dependencies": {
-    "unique-random-array": "3.0.0"
+    "unique-random-array": "4.0.0"
   },
   "devDependencies": {},
   "scripts": {
